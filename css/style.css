@@ -1,0 +1,29 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+    
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+img.brand-logo {
+    max-height: 30px;
+    max-width: 200px;
+    width: auto;
+}
+
+a.nav-link {
+    font-size: 1.1rem;
+}
+.carousel {
+    max-height: 500px;
+}
+.d-block {
+    height: 100%;
+}
+.card {
+	background-color:yellow;
+}
